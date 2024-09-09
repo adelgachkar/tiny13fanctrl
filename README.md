@@ -31,3 +31,5 @@ Fuses of the ATtiny13 need to be programmed to 9.6 MHz internal clock:
 
 # License
 GNU GPL-3.
+
+# edited
